@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Link → <a href="https://portfolio-react-coral.vercel.app/" target="_blank">Ajay Portfolio</a>
+  Link → <a href="https://ajayjaiswal.netlify.app/" target="_blank">Ajay Portfolio</a>
 </h1>
 
 <p align="center">
@@ -13,4 +13,3 @@ Built with <a href="https://reactjs.org/" target="_blank">React.js</a>
    Hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
-![Görsel](src/assets/portfolyo.png)
