@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Link → <a href="https://portfolio-react-coral.vercel.app/" target="_blank">Ali Can Bayazıt</a>
+  Link → <a href="https://portfolio-react-coral.vercel.app/" target="_blank">Ajay Portfolio</a>
 </h1>
 
 <p align="center">
