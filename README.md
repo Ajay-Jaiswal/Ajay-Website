@@ -9,7 +9,3 @@
 <p align="center">
 Built with <a href="https://reactjs.org/" target="_blank">React.js</a>
 
-<p align="center">
-   Hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
-</p>
-
